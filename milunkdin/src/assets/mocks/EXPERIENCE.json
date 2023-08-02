@@ -1,0 +1,24 @@
+[
+    {
+        "id": 1,
+        "personId": 1,
+        "startDate": "2/2/2022",
+        "endDate": "2/2/2022",
+        "organization": "Microsoft",
+        "role": "software engineer",
+        "isMiluim": false,
+        "rate": null,
+        "comment": null
+    },
+    {
+        "id": 2,
+        "personId": 1,
+        "startDate": "1/1/2022",
+        "endDate": "2/1/2022",
+        "organization": "מצפן/טירה/צוות שגב",
+        "role": "Database ERD",
+        "isMiluim": true,
+        "rate": 5,
+        "comment": "מפתח תשתית דיווח מבצעי"
+    }
+]

@@ -1,0 +1,60 @@
+.profile-img {
+    border-radius: 100%;
+    position: absolute;
+    height: 20vh;
+    top: 10vh;
+    border-color: white;
+    border-width: 8px;
+    border-style: solid;
+}
+
+.profile-background {
+    background-color: black;
+    background-image: url("https://wallpaperaccess.com/full/7823422.jpg");
+    height: 25vh;
+    width: 100%;
+    background-size: cover;
+}
+
+.profile-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    position: relative;
+}
+
+.profile-details {
+    margin-top: 8vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-transform: capitalize;
+}
+
+.profile-name {
+    font-size: 2rem;
+}
+
+.profile-tags {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    padding: 4vh 0;
+    padding-top: 2vh;
+    align-content: space-between;
+}
+
+.profile-tags-tag {
+    margin: 0 4px
+}
+
+.border {
+    background-color: rgb(211, 211, 211);
+    height: 12px;
+    width: 100vw;
+}
+
+.profile-skills {
+    width: 100%;
+    height: 20vh;
+}

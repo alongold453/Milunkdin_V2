@@ -1,0 +1,68 @@
+{
+  "name": "client",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@apollo/client": "^3.6.9",
+    "@emotion/react": "^11.9.0",
+    "@emotion/styled": "^11.8.1",
+    "@mui/icons-material": "^5.8.0",
+    "@mui/lab": "^5.0.0-alpha.78",
+    "@mui/material": "^5.6.2",
+    "@testing-library/jest-dom": "^5.16.4",
+    "@testing-library/react": "^13.1.1",
+    "@testing-library/user-event": "^13.5.0",
+    "chart.js": "^3.9.1",
+    "firebase": "^9.10.0",
+    "formik": "^2.2.9",
+    "graphql": "^16.6.0",
+    "lodash": "^4.17.21",
+    "material-ui-chip-input": "^2.0.0-beta.2",
+    "react": "^18.0.0",
+    "react-chartjs-2": "^4.3.1",
+    "react-dom": "^18.0.0",
+    "react-router-dom": "^6.3.0",
+    "react-scripts": "5.0.1",
+    "react-simple-animate": "^3.3.12",
+    "react-transition-group": "^4.4.2",
+    "react-wordcloud": "^1.2.7",
+    "sass": "^1.52.1",
+    "stylis": "^4.1.1",
+    "stylis-plugin-rtl": "^2.1.1",
+    "wdio": "^6.0.1",
+    "web-vitals": "^2.1.4"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject",
+    "wdio": "wdio run wdio.conf.js"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "@wdio/cli": "^7.25.2",
+    "@wdio/cucumber-framework": "^7.25.1",
+    "@wdio/local-runner": "^7.25.2",
+    "@wdio/spec-reporter": "^7.25.1",
+    "chromedriver": "^106.0.1",
+    "wdio-chromedriver-service": "^8.0.0"
+  }
+}

@@ -1,0 +1,14 @@
+.container {
+    background-color: #f3f2ee;
+}
+
+.search-input {
+    background-color: white;
+    border: none;
+    border-radius: 15px;
+    font-family: inherit;
+    font-size: inherit;
+    outline: none;
+    height: 30px;
+    padding: 5px
+}

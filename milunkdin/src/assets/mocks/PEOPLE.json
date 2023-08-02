@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "name": "ofir elarat",
+        "rank": "סרן",
+        "servePosition": "מצפן/טירת האגם",
+        "linkedInURL": "www.linkedin.com/in/ofir-elarat",
+        "imgURL": "https://media-exp1.licdn.com/dms/image/C4D03AQHwdI64crX-6Q/profile-displayphoto-shrink_400_400/0/1606576176064?e=1656547200&v=beta&t=XvRLVfxnaoLrzV08QWSUwQjyBOU3QeK5J8okKcOOkG8"
+    },
+    {
+        "id": 2,
+        "name": "Lidor BT",
+        "rank": "סאל",
+        "servePosition": "מצפן/טירת האגם",
+        "linkedInURL": "https://www.linkedin.com/in/lidorbt/",
+        "imgURL": "https://media-exp1.licdn.com/dms/image/C4D03AQFuMIMHSNVIWQ/profile-displayphoto-shrink_800_800/0/1579474336396?e=1656547200&v=beta&t=LB4TssJxjkUkUukdd5ySeDlePwUmAa4N3K8E46n48lQ"
+    },
+    {
+        "id": 3,
+        "name": "Koren Zerah",
+        "rank": "רסל",
+        "servePosition": "מצפן/טירת האגם",
+        "linkedInURL": "https://www.linkedin.com/in/korenzerah/",
+        "imgURL": "https://media-exp1.licdn.com/dms/image/C4D03AQHXaxMsSlLc9Q/profile-displayphoto-shrink_800_800/0/1618921404914?e=1656547200&v=beta&t=Z46jkERkVAHp_0d98ytcub_rA74cHe6o5VqXVn2JXaY"
+    }
+]

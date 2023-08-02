@@ -1,0 +1,37 @@
+[
+    {
+        "skillId": 1,
+        "personId": 1,
+        "votes": 5
+    },
+    {
+        "skillId": 3,
+        "personId": 1,
+        "votes": 8
+    },
+    {
+        "skillId": 4,
+        "personId": 1,
+        "votes": 3
+    },
+    {
+        "skillId": 2,
+        "personId": 1,
+        "votes": 9
+    },
+    {
+        "skillId": 8,
+        "personId": 1,
+        "votes": 15
+    },
+    {
+        "skillId": 7,
+        "personId": 1,
+        "votes": 4
+    },
+    {
+        "skillId": 6,
+        "personId": 1,
+        "votes": 7
+    }
+]
